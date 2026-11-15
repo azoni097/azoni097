@@ -1,16 +1,92 @@
-## Hi there 👋
+<h1 align="center">Oi, eu sou a Vitória 👋</h1>
 
-<!--
-**azoni097/azoni097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas · Desenvolvimento Web · UX/UI
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/vitória-azoni-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:vitoriaaamaral8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 Sobre mim
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **Senai Anchieta** (previsão de conclusão: ago/2028)
+- 🖥️ Técnica em **Informática para Internet** pela ETEC J. Roberto Marinho (2025)
+- 🎮 Formação complementar em **Design e Game Design** pela Escola Técnica de Entretenimento Zion
+- 🐍 Estudando **Python Development** na FIAP
+- 🤖 Participei da **Gemini Academy** (Senai Anchieta | Google Academy)
+- 📍 São Paulo, SP
+- 🎯 **Buscando estágio** em TI, Desenvolvimento de Sistemas, Desenvolvimento Web ou Suporte Técnico
+
+---
+
+## 🛠️ Tecnologias
+
+**Linguagens**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Banco de dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Design e ferramentas**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+**Metodologias:** Scrum · Kanban
+
+---
+
+## 📌 Projetos em destaque
+
+> ⚠️ Substitua os exemplos abaixo pelos seus projetos reais e fixe os melhores repositórios no topo do perfil.
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [**Nome do projeto 1**](https://github.com/azoni097/NOME-DO-REPO) | Uma linha explicando o que ele faz e qual problema resolve. | HTML · CSS · JavaScript |
+| [**Nome do projeto 2**](https://github.com/azoni097/NOME-DO-REPO) | Uma linha explicando o que ele faz e qual problema resolve. | Java · MySQL |
+| [**Nome do projeto 3**](https://github.com/azoni097/NOME-DO-REPO) | Uma linha explicando o que ele faz e qual problema resolve. | Python · PostgreSQL |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=azoni097&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azoni097&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+## 🌱 Foco atual
+
+- Construindo projetos completos com **front-end + banco de dados**
+- Praticando **lógica de programação e SQL**
+- Evoluindo em **Python** e **versionamento com Git**
+- Aperfeiçoando o **inglês técnico**
+
+---
+
+<p align="center">
+  Aberta a conversas sobre oportunidades de estágio. Vamos conversar! 💜
+</p>
