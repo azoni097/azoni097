@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou a Vitória 👋</h1>
+<h1 align="center">Ola, eu sou a Vitória 🧋</h1>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas · Desenvolvimento Web · UX/UI
