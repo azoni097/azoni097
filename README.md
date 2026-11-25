@@ -63,9 +63,9 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [**Nome do projeto 1**](https://github.com/azoni097/PortFolio) | Uma linha explicando o que ele faz e qual problema resolve. | HTML · CSS · JavaScript |
-| [**Nome do projeto 2**](https://github.com/azoni097/jogo_de_adivinhacao) | Uma linha explicando o que ele faz e qual problema resolve. | Java |
-| [**Nome do projeto 3**](https://github.com/azoni097/ecommerce_de_assinatura) | Uma linha explicando o que ele faz e qual problema resolve. | Java |
+| [**Portifólio Pessoal**](https://github.com/azoni097/PortFolio) | Uma linha explicando o que ele faz e qual problema resolve. | HTML · CSS · JavaScript |
+| [**Jogo de Adivinhação**](https://github.com/azoni097/jogo_de_adivinhacao) | Uma linha explicando o que ele faz e qual problema resolve. | Java |
+| [**Ecommerce de Assinatura**](https://github.com/azoni097/ecommerce_de_assinatura) | Uma linha explicando o que ele faz e qual problema resolve. | Java |
 
 ---
 
