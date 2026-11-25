@@ -63,9 +63,9 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [**Nome do projeto 1**](https://github.com/azoni097/NOME-DO-REPO) | Uma linha explicando o que ele faz e qual problema resolve. | HTML · CSS · JavaScript |
-| [**Nome do projeto 2**](https://github.com/azoni097/NOME-DO-REPO) | Uma linha explicando o que ele faz e qual problema resolve. | Java · MySQL |
-| [**Nome do projeto 3**](https://github.com/azoni097/NOME-DO-REPO) | Uma linha explicando o que ele faz e qual problema resolve. | Python · PostgreSQL |
+| [**Nome do projeto 1**](https://github.com/azoni097/PortFolio) | Uma linha explicando o que ele faz e qual problema resolve. | HTML · CSS · JavaScript |
+| [**Nome do projeto 2**](https://github.com/azoni097/jogo_de_adivinhacao) | Uma linha explicando o que ele faz e qual problema resolve. | Java |
+| [**Nome do projeto 3**](https://github.com/azoni097/ecommerce_de_assinatura) | Uma linha explicando o que ele faz e qual problema resolve. | Java |
 
 ---
 
@@ -75,15 +75,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=azoni097&show_icons=true&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azoni097&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
 </p>
-
----
-
-## 🌱 Foco atual
-
-- Construindo projetos completos com **front-end + banco de dados**
-- Praticando **lógica de programação e SQL**
-- Evoluindo em **Python** e **versionamento com Git**
-- Aperfeiçoando o **inglês técnico**
 
 ---
 
