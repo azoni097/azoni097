@@ -59,13 +59,11 @@
 
 ## 📌 Projetos em destaque
 
-> ⚠️ Substitua os exemplos abaixo pelos seus projetos reais e fixe os melhores repositórios no topo do perfil.
-
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [**Portifólio Pessoal**](https://github.com/azoni097/PortFolio) | Uma linha explicando o que ele faz e qual problema resolve. | HTML · CSS · JavaScript |
-| [**Jogo de Adivinhação**](https://github.com/azoni097/jogo_de_adivinhacao) | Uma linha explicando o que ele faz e qual problema resolve. | Java |
-| [**Ecommerce de Assinatura**](https://github.com/azoni097/ecommerce_de_assinatura) | Uma linha explicando o que ele faz e qual problema resolve. | Java |
+| [**Portifólio Pessoal**](https://github.com/azoni097/PortFolio) | Site de portfólio responsivo que apresenta meus projetos e minha trajetória em TI e design. | HTML · CSS · JavaScript |
+| [**Jogo de Adivinhação**](https://github.com/azoni097/jogo_de_adivinhacao) | Jogo em Java em que o usuário tenta descobrir um número sorteado aleatoriamente. | Java |
+| [**Ecommerce de Assinatura**](https://github.com/azoni097/ecommerce_de_assinatura) | Modelo de e-commerce em Java com planos de assinatura recorrentes e desconto em produtos. | Java |
 
 ---
 
