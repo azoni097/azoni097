@@ -1,7 +1,7 @@
 <h1 align="center">Ola, eu sou a Vitória 🧋</h1>
 
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas · Desenvolvimento Web · UX/UI
+  Estudante de Análise e Desenvolvimento de Sistemas
 </p>
 
 <p align="center">
